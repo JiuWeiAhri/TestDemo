@@ -1,6 +1,0 @@
-framework module YXChainTool {
-  umbrella header "YXChainTool-umbrella.h"
-
-  export *
-  module * { export * }
-}
