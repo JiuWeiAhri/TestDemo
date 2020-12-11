@@ -1,0 +1,19 @@
+{
+  "name": "YXChainTool",
+  "version": "1.0.2",
+  "summary": "swift 链式开发工具",
+  "description": "swift常用UI控件及系统代理扩展，使其具有链式调用能力",
+  "homepage": "http://git.taoche.com/Business_App_iOS/iOS_CocoaPods/yxchaintool",
+  "license": "MIT",
+  "authors": {
+    "zhuxuewei": "zhuxuewei@yxqiche.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "http://git.taoche.com/Business_App_iOS/iOS_CocoaPods/yxchaintool.git",
+    "tag": "1.0.2"
+  },
+  "source_files": "YXChainTool/**/*.{swift,h,m}"
+}
